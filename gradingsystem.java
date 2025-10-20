@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GLP {
+public class gradingsystem {
 
 	public static void main(String[] args) {
 		
